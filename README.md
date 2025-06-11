@@ -21,3 +21,12 @@ I'm a student with a strong passion in business intelligence, digital technologi
     </td>
   </tr>
 </table>
+<h4 align="center">PROFILE & PORTFOLIO</h4>
+<table align="center">
+  <tr>
+    <th align="center" style="padding: 0 15px;">freeCodeCamp</th>
+    <th align="center" style="padding: 0 15px;">Coursera</th>
+    <th align="center" style="padding: 0 15px;">LeetCode</th>
+    <th align="center" style="padding: 0 15px;">HackerRank</th>
+  </tr>
+  <tr>
